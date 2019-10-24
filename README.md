@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/software-improvement-group-research/GraphRepo?branch=develop)](https://bettercodehub.com/)
+
 # GraphRepo
 
 This tool maps a Github repository to a Neo4j database. Each entity in a repository has a custom model (which can be found in [graphrepo/models](https://github.com/NullConvergence/GraphRepo/tree/develop/graphrepo/models)).
